@@ -1,0 +1,9 @@
+requests
+pandas
+spacy
+scikit-learn
+networkx
+python-louvain
+plotly
+dash
+flask
