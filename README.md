@@ -1,6 +1,3 @@
-Конечно. **Скопируй весь текст ниже целиком и вставь вместо текущего содержимого `README.md`.**
-
-````markdown
 # Job Market Graph Analysis
 
 **Exploring relationships between job vacancies by modelling shared skills as a similarity graph.**
